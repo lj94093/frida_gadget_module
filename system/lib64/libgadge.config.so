@@ -1,0 +1,7 @@
+{
+  "interaction": {
+    "type": "script",
+    "path": "/data/local/tmp/gadget.js",
+    "on_change": "reload"
+  }
+}

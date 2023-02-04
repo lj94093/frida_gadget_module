@@ -1,0 +1,3 @@
+[submodule "zygisk_frida_gadget"]
+	path = zygisk_frida_gadget
+	url = https://github.com/lj94093/zygisk_frida_gadget.git

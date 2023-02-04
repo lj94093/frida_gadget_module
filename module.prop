@@ -1,7 +1,7 @@
-id=MMT-Ex
+id=fsg
 name=Magisk Module Template Extended
-version=v2.0
-versionCode=10
-author=Zackptg5
-description=Magisk Module Template Extended
+version=v1.0
+versionCode=1
+author=lj94093
+description=inject a custom frida gadget to app to avoid frida detection
 updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
